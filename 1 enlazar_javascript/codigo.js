@@ -1,0 +1,1 @@
+alert("Enlace desde un archivo js")

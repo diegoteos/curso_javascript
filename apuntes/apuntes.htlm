@@ -1,21 +1,41 @@
 ¿Qué es JavaScript?
 
-1 - Lenguaje de programacion: instrucciones que se le da a un ordenador mediante codigo estructurado.
+    1 - Lenguaje de programacion: instrucciones que se le da a un ordenador mediante codigo estructurado.
 
-2 - Lenguaje interpretado: no utiliza un compilador para su interpretacion y ejecución 
+    2 - Lenguaje interpretado: no utiliza un compilador para su interpretacion y ejecución 
 
-3 - Orientado a objetos: es un lenguaje que su estructura abarca las caracteristicas como las clases, herencias, polimorfismo
+    3 - Orientado a objetos: es un lenguaje que su estructura abarca las caracteristicas como las clases, herencias, polimorfismo
 
-4 - Es imperativo: paso por paso se ejecuta cada una de las lineas de codigo.
+    4 - Es imperativo: paso por paso se ejecuta cada una de las lineas de codigo.
 
-5 - Case sensitive: es sencible a mayusculas y minusculas.
+    5 - Case sensitive: es sencible a mayusculas y minusculas.
 
-6 - Basado en prototipos / instancias / classless: los objetos creados estan basados en objetos previamente creados propiamente del lenguaje.
+    6 - Basado en prototipos / instancias / classless: los objetos creados estan basados en objetos previamente creados propiamente del lenguaje.
 
-7 - Tipado debil: las variables pueden cambiar su valor.
+    7 - Tipado debil: las variables pueden cambiar su valor.
 
-8 - Lenguaje dinamico: la variable se adapta al tipo de dato que le asignemos sin declarar previamente que tipo de dato es.
+    8 - Lenguaje dinamico: la variable se adapta al tipo de dato que le asignemos sin declarar previamente que tipo de dato es.
 
-9 - ECMASCRIPT: es una tecnologia que esta construida llamada ECMASCRIPT
+    9 - ECMASCRIPT: es una tecnologia que esta construida llamada ECMASCRIPT
 
 
+Funciones de JavaScript
+
+    - Brinda dinamismo en los sitios web: del lado del cliente (lo mas comun)
+
+    - Servidor en NodeJS: interaccion del lado del servidor (backend)
+
+    - Tecnologias Frontend como Angular, React o Vue.JS: framework que permiten trabajar con JS (frontend)
+
+
+
+
+Formas de enlazar JavaScript
+
+    - En lineas
+
+    - Como contenido en la etiqueta <script>
+
+    - Como contenido en un archivo de formato .JS
+
+    - Con un require
