@@ -39,3 +39,23 @@ Formas de enlazar JavaScript
     - Como contenido en un archivo de formato .JS
 
     - Con un require
+
+
+Declaracion de variables:
+
+    - var: es de alcance global var numero = 15 
+    
+    - let: limita el alcance de la variable solo al bloque donde la ejecutamos
+
+    - const: es una constante, se inicializa una unica vez. ejemplo: cont nombre = "diego" la varible siempre va a ser igual a diego
+        La variable const se debe de declarar y de una vez inicializar, no se puede dejar sin inicializar.
+
+Valor de las variables:
+
+    - var no definidas "is not defined" es cuando la variable aun no esta o declarada.
+    
+    - undefined: es la variable que existe pero que no se le ha asignado su valor o inicializado.
+        Es un tipo de dato que nos dice que la variable existe pero no tiene valor.
+
+    - 
+
