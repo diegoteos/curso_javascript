@@ -57,5 +57,24 @@ Valor de las variables:
     - undefined: es la variable que existe pero que no se le ha asignado su valor o inicializado.
         Es un tipo de dato que nos dice que la variable existe pero no tiene valor.
 
-    - 
+    - Null: nos indica que la variable esta vacia, no es lo mismo a no definido o no inicializada.
+
+    - Nan: significa que "no es un numero" que debemos de hacer la operacion con numeros
+
+    - prompt: es una funcion que recibe datos 
+
+    - scope: es el ambito de la variable, el alcanse
+
+    - Creando multiples variables:  let numero, numer2, numero3;
+        numero = 2;
+        numero2 = 4;
+        numero3 = 13;
+
+    - Hoisting: expone como funciona y el orden en que se ejecuta el codigo segun el orden o las funciones declaradas
+
+
+    Operadores:
+    
+
+
 
